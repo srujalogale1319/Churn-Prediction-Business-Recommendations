@@ -1,0 +1,151 @@
+CustomerID,Gender,Age,TenureMonths,MonthlyCharges,TotalCharges,ContractType,SupportTickets,PaymentMethod,IsActive
+C1000,Male,52,19,1023.08,70964.03,Monthly,7,Credit Card,1
+C1001,Female,52,67,1715.64,48425.87,1 Year,2,Credit Card,1
+C1002,Male,50,19,549.88,38109.77,Monthly,6,Credit Card,1
+C1003,Male,22,20,940.44,70655.89,Monthly,2,Debit Card,1
+C1004,Male,59,71,1459.12,25248.05,Monthly,5,Debit Card,0
+C1005,Female,56,52,449.04,33360.13,Monthly,5,Net Banking,1
+C1006,Male,58,33,438.94,43727.96,Monthly,2,UPI,1
+C1007,Male,45,40,1945.17,25741.38,Monthly,6,Net Banking,1
+C1008,Male,24,39,1486.27,40817.61,2 Year,2,UPI,0
+C1009,Female,26,1,273.92,57361.57,Monthly,7,Debit Card,0
+C1010,Male,25,11,917.88,74226.9,Monthly,9,Debit Card,1
+C1011,Male,29,57,980.34,76835.89,Monthly,3,Debit Card,1
+C1012,Male,51,50,1539.28,82367.64,Monthly,0,Net Banking,1
+C1013,Male,50,23,651.55,74549.06,Monthly,3,Credit Card,1
+C1014,Female,65,31,531.8,68263.42,1 Year,6,Credit Card,0
+C1015,Male,40,42,345.57,24131.89,Monthly,3,Debit Card,1
+C1016,Female,41,7,970.97,40322.18,Monthly,5,Credit Card,1
+C1017,Female,54,16,1439.3,48032.63,Monthly,8,Credit Card,1
+C1018,Female,52,60,304.75,8747.69,Monthly,0,Net Banking,1
+C1019,Male,61,2,1847.38,53072.83,2 Year,4,UPI,1
+C1020,Female,57,1,996.23,43915.42,Monthly,6,Debit Card,0
+C1021,Male,39,48,631.62,80309.87,Monthly,0,Debit Card,1
+C1022,Female,44,12,368.97,97801.12,2 Year,3,Net Banking,1
+C1023,Female,52,69,529.16,55822.5,Monthly,5,Net Banking,1
+C1024,Female,18,37,1882.31,32607.3,2 Year,1,Credit Card,1
+C1025,Female,52,32,1348.89,4818.38,Monthly,9,Debit Card,1
+C1026,Female,54,9,1130.05,92502.01,1 Year,4,UPI,1
+C1027,Female,64,19,1382.8,91952.01,Monthly,9,Net Banking,0
+C1028,Female,31,48,984.21,25672.52,1 Year,0,UPI,1
+C1029,Female,20,3,1514.07,69693.41,Monthly,5,UPI,1
+C1030,Male,18,20,285.89,8005.74,Monthly,5,Debit Card,1
+C1031,Male,22,24,1218.87,17038.44,Monthly,3,Debit Card,1
+C1032,Female,43,54,485.56,22072.51,1 Year,7,Net Banking,0
+C1033,Female,31,33,416.3,29802.15,1 Year,3,Debit Card,0
+C1034,Female,56,24,815.38,99585.22,1 Year,7,Debit Card,1
+C1035,Male,44,36,365.24,69844.04,Monthly,7,Debit Card,1
+C1036,Female,26,38,369.48,38728.08,2 Year,4,UPI,1
+C1037,Male,32,25,760.54,73841.52,Monthly,3,Net Banking,1
+C1038,Male,32,18,1963.12,91567.81,Monthly,1,Credit Card,1
+C1039,Male,43,66,515.59,95890.89,Monthly,2,UPI,1
+C1040,Male,59,54,230.89,6257.46,1 Year,2,Debit Card,1
+C1041,Male,30,35,1574.06,39754.92,Monthly,3,UPI,1
+C1042,Female,68,61,1652.44,11122.23,Monthly,3,Debit Card,0
+C1043,Female,49,41,823.35,33898.18,1 Year,9,Debit Card,1
+C1044,Female,56,33,1036.41,17383.15,Monthly,4,UPI,1
+C1045,Female,66,68,1369.59,64861.41,Monthly,3,Net Banking,0
+C1046,Female,69,33,286.51,39132.7,Monthly,9,Debit Card,1
+C1047,Male,49,14,1908.46,23324.78,Monthly,7,Net Banking,1
+C1048,Female,21,21,1796.02,26960.82,Monthly,5,Credit Card,1
+C1049,Female,47,48,669.61,36354.34,Monthly,5,Debit Card,1
+C1050,Male,54,20,227.55,26365.01,1 Year,7,Net Banking,0
+C1051,Female,40,8,1880.19,45597.46,Monthly,6,Net Banking,0
+C1052,Male,56,7,1101.87,3715.44,Monthly,9,Credit Card,1
+C1053,Female,62,67,1170.88,28336.47,1 Year,9,Net Banking,1
+C1054,Male,32,17,1431.13,41415.07,Monthly,7,Net Banking,1
+C1055,Female,60,33,1308.53,60476.8,Monthly,1,Credit Card,1
+C1056,Female,46,48,1899.0,27460.29,Monthly,8,Debit Card,1
+C1057,Male,53,59,1899.65,13751.92,Monthly,0,Net Banking,0
+C1058,Male,30,22,1760.96,8081.94,Monthly,7,Net Banking,1
+C1059,Male,49,30,1345.53,94082.92,2 Year,3,Net Banking,0
+C1060,Male,24,38,1641.71,41955.59,1 Year,3,UPI,1
+C1061,Male,68,51,1418.9,58325.68,Monthly,4,Credit Card,1
+C1062,Male,39,54,1232.06,91958.07,Monthly,7,UPI,1
+C1063,Male,45,8,431.3,8733.47,Monthly,4,Credit Card,0
+C1064,Male,19,27,1660.17,87727.82,2 Year,7,Debit Card,0
+C1065,Female,59,27,1677.15,55382.99,Monthly,9,Debit Card,0
+C1066,Female,62,21,1326.69,16901.01,Monthly,0,Net Banking,1
+C1067,Male,23,30,1676.77,41419.88,Monthly,9,Credit Card,1
+C1068,Female,45,28,1372.67,77871.43,Monthly,8,Debit Card,0
+C1069,Female,45,64,572.03,48296.82,2 Year,5,Credit Card,1
+C1070,Female,61,69,693.13,98535.96,Monthly,2,Debit Card,1
+C1071,Female,61,61,586.26,37985.53,1 Year,7,UPI,1
+C1072,Male,37,48,879.07,75083.04,Monthly,8,Debit Card,0
+C1073,Female,47,19,270.13,39602.45,1 Year,5,UPI,0
+C1074,Male,28,4,1312.86,83001.84,Monthly,6,Debit Card,1
+C1075,Female,45,35,805.8,57123.61,Monthly,0,Net Banking,0
+C1076,Female,42,64,1380.3,6819.43,1 Year,4,UPI,0
+C1077,Female,56,49,893.71,4163.78,2 Year,4,Debit Card,1
+C1078,Male,50,17,1426.9,13818.29,2 Year,9,Net Banking,1
+C1079,Female,18,44,813.12,1860.36,Monthly,3,UPI,0
+C1080,Male,44,30,669.25,7998.23,2 Year,5,Net Banking,1
+C1081,Female,69,46,1092.87,69325.58,Monthly,6,Credit Card,1
+C1082,Male,30,6,1447.2,53667.45,2 Year,8,Credit Card,1
+C1083,Female,58,37,827.01,75116.12,Monthly,0,UPI,0
+C1084,Male,20,24,1885.97,91359.99,1 Year,5,Debit Card,0
+C1085,Male,56,46,270.54,58722.38,1 Year,6,UPI,0
+C1086,Female,23,53,952.3,72749.02,1 Year,2,Net Banking,1
+C1087,Male,25,60,1941.64,75829.58,Monthly,7,Debit Card,0
+C1088,Female,44,63,1186.35,38096.13,Monthly,4,Credit Card,0
+C1089,Female,26,32,962.25,24487.94,1 Year,8,Debit Card,1
+C1090,Female,54,33,1223.34,20902.01,Monthly,4,Credit Card,0
+C1091,Female,50,67,1236.66,25518.52,2 Year,8,Debit Card,1
+C1092,Female,68,18,1516.97,27835.81,1 Year,9,Debit Card,1
+C1093,Female,59,25,429.84,21119.15,Monthly,3,Debit Card,1
+C1094,Female,61,54,650.03,87882.96,1 Year,8,Net Banking,1
+C1095,Female,41,58,1244.98,75821.41,Monthly,4,Net Banking,1
+C1096,Female,32,67,1760.81,5166.2,1 Year,9,UPI,1
+C1097,Female,49,46,1211.36,27232.91,1 Year,8,UPI,1
+C1098,Female,49,24,629.47,2707.38,Monthly,2,Credit Card,0
+C1099,Male,41,32,1423.72,50067.44,Monthly,3,Net Banking,1
+C1100,Male,58,47,1531.84,47882.96,2 Year,8,Credit Card,1
+C1101,Female,69,23,628.83,83221.46,Monthly,9,UPI,1
+C1102,Female,66,66,879.91,31123.84,Monthly,5,Credit Card,0
+C1103,Female,66,27,1161.79,81730.38,Monthly,1,UPI,1
+C1104,Female,69,2,1093.81,96813.39,Monthly,6,Net Banking,1
+C1105,Female,29,17,901.31,9296.62,Monthly,1,Debit Card,0
+C1106,Female,56,33,735.74,79285.88,Monthly,1,Net Banking,1
+C1107,Female,19,9,379.97,59200.61,Monthly,0,Credit Card,1
+C1108,Female,20,43,296.27,48264.57,1 Year,2,Credit Card,1
+C1109,Male,66,48,1925.37,42343.31,Monthly,5,Net Banking,0
+C1110,Female,54,39,1724.86,78574.49,Monthly,7,Net Banking,1
+C1111,Male,66,42,838.83,64116.46,Monthly,8,UPI,0
+C1112,Female,34,26,1922.24,80601.94,Monthly,6,Credit Card,1
+C1113,Female,66,50,1418.19,90363.53,Monthly,3,Credit Card,0
+C1114,Male,19,25,1068.54,61917.74,1 Year,5,Net Banking,0
+C1115,Female,19,24,1087.45,98056.04,1 Year,4,Debit Card,0
+C1116,Male,45,13,349.91,61004.74,Monthly,7,Credit Card,1
+C1117,Female,40,60,365.07,63846.11,2 Year,0,Debit Card,0
+C1118,Female,54,7,1284.39,55704.15,1 Year,0,Net Banking,1
+C1119,Male,49,57,1196.67,9554.71,Monthly,5,Net Banking,1
+C1120,Female,50,36,582.91,72776.5,2 Year,9,UPI,1
+C1121,Male,18,45,1903.15,54970.91,2 Year,1,Credit Card,0
+C1122,Female,36,20,1606.33,45365.59,Monthly,4,Debit Card,0
+C1123,Male,19,65,404.24,91091.89,Monthly,0,UPI,0
+C1124,Male,61,8,1875.67,30146.97,2 Year,6,Credit Card,1
+C1125,Female,43,16,1953.65,52598.43,1 Year,0,UPI,1
+C1126,Female,49,14,1992.68,69915.37,Monthly,3,Net Banking,0
+C1127,Male,23,15,300.57,79748.94,1 Year,8,Credit Card,1
+C1128,Female,49,66,1526.66,46205.01,1 Year,0,UPI,1
+C1129,Female,21,32,1182.65,84288.1,1 Year,3,UPI,1
+C1130,Female,28,63,1470.5,77007.32,1 Year,5,Debit Card,1
+C1131,Male,34,51,1943.57,7090.48,1 Year,5,UPI,1
+C1132,Male,55,25,1438.45,5063.2,Monthly,7,Credit Card,1
+C1133,Male,41,58,1706.53,62270.17,Monthly,0,Credit Card,1
+C1134,Male,22,63,1760.36,35067.63,1 Year,6,Debit Card,1
+C1135,Male,69,62,1709.27,21308.51,2 Year,0,Credit Card,0
+C1136,Male,51,22,966.96,58175.17,Monthly,6,Net Banking,1
+C1137,Male,23,58,600.64,34485.54,Monthly,2,Credit Card,1
+C1138,Male,39,58,913.97,53957.71,1 Year,7,Credit Card,1
+C1139,Male,28,49,1805.41,46281.86,Monthly,2,UPI,1
+C1140,Female,65,52,463.89,58684.23,1 Year,0,UPI,0
+C1141,Male,33,42,1123.99,40329.9,2 Year,7,Credit Card,0
+C1142,Female,50,70,619.81,69917.92,1 Year,2,Debit Card,1
+C1143,Female,26,15,1246.35,18416.69,Monthly,1,UPI,1
+C1144,Female,23,54,1753.65,69801.9,Monthly,0,Debit Card,0
+C1145,Male,33,60,1784.65,41460.29,Monthly,2,Credit Card,0
+C1146,Male,46,8,626.03,87494.6,Monthly,1,Credit Card,1
+C1147,Male,20,53,1833.85,51765.99,Monthly,1,Net Banking,1
+C1148,Male,37,60,1265.4,97324.48,Monthly,5,UPI,1
+C1149,Female,53,5,830.39,60392.57,Monthly,0,Credit Card,0
