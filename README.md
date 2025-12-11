@@ -2,16 +2,27 @@
 Data Analytics project.
 📄 Dataset Overview
 The dataset contains 150 customers with the following features:
+
 CustomerID
+
 Gender
+
 Age
+
 TenureMonths
+
 MonthlyCharges
+
 TotalCharges
+
 ContractType
+
 SupportTickets
+
 PaymentMethod
+
 IsActive (Target: 1 = Active, 0 = Churned)
+
 The goal is to analyze patterns and build a model to identify customers likely to churn.
 
 📊 Exploratory Data Analysis (EDA)
