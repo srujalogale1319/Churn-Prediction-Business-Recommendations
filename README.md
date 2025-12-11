@@ -3,27 +3,27 @@ Data Analytics project.
 📄 Dataset Overview
 The dataset contains 150 customers with the following features:
 
-CustomerID
+1.CustomerID
 
-Gender
+2.Gender
 
-Age
+3.Age
 
-TenureMonths
+4.TenureMonths
 
-MonthlyCharges
+5.MonthlyCharges
 
-TotalCharges
+6.TotalCharges
 
-ContractType
+7.ContractType
 
-SupportTickets
+8.SupportTickets
 
-PaymentMethod
+9.PaymentMethod
 
-IsActive (Target: 1 = Active, 0 = Churned)
+10.IsActive (Target: 1 = Active, 0 = Churned)
 
-The goal is to analyze patterns and build a model to identify customers likely to churn.
+**The goal is to analyze patterns and build a model to identify customers likely to churn.**
 
 📊 Exploratory Data Analysis (EDA)
 The notebook includes the following visualizations:
